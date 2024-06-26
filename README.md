@@ -1,2 +1,3 @@
 <h1>Barberia</h1>
-Estado del proyecto: Finalizado.
+
+- Estado del proyecto: Finalizado.
